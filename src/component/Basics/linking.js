@@ -1,0 +1,1 @@
+document.getElementById('maggie' + 'Recipe').innerHTML = menuData[0].recipe
