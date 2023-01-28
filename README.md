@@ -1,5 +1,8 @@
 ## [To Website](https://prabhat-recipe.netlify.app/)
 
+![image](https://user-images.githubusercontent.com/83898334/215242270-4a137dac-3471-45f0-b3df-3541e5d967fa.png)
+![image](https://user-images.githubusercontent.com/83898334/215242321-dcd4cd45-2084-4129-811e-0a2bc4e64edc.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
